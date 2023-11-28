@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as r}from"./index-Cbx64ej_.js";const s={name:"ServiceDetail",data(){return{}}},o="/assets/order-detail-70VZIvvp.png",c={src:o};function a(n,i,_,p,d,l){return t(),r("img",c)}const f=e(s,[["render",a]]);export{f as default};
