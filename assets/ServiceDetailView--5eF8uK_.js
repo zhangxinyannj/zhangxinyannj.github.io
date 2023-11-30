@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s}from"./index-v88QE71q.js";const a={name:"ServiceDetail",data(){return{}}},c="/assets/order-detail-m6X_Oimq.png",o={class:"detail",src:c};function r(n,_,i,d,p,l){return t(),s("img",o)}const f=e(a,[["render",r],["__scopeId","data-v-97c4e5ed"]]);export{f as default};
